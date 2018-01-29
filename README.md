@@ -31,3 +31,4 @@ Identicon在线生成地址
 http://identicon.net/
 
 效果
+![](https://github.com/lpb273/gtihub-headerImg-create/blob/master/static/img/header.gif)
